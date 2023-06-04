@@ -29,16 +29,21 @@ namespace tp1{
                     }
                 }
             }
-            virtual public void CalculerSalire(){
+            virtual public void CalculerSalaire(){
                 SalaireDeBase = tarifH*HeuresDeTravail;
                 SalaireTotal = SalaireDeBase;
             }
             public override string ToString(){
                 return $"Nom :{Nom} - Matricule : {matricule}";
             }
-            public void Afficher(){
-
-            }
         
+    }
+    ////ici la methode main
+    public static void Main(){
+        Employe e1 = new Employe("lilich", 200);
+        Employe e2 = new Employe("mimich", 300);
+        e1.HeuresDeTravail = 20;
+        e1.CalculerSalaire();
+        Console.WriteLine(e1);
     }
 }
