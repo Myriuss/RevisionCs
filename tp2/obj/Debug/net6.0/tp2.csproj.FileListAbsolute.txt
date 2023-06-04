@@ -1,0 +1,15 @@
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/bin/Debug/net6.0/tp2
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/bin/Debug/net6.0/tp2.deps.json
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/bin/Debug/net6.0/tp2.runtimeconfig.json
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/bin/Debug/net6.0/tp2.dll
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/bin/Debug/net6.0/tp2.pdb
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/obj/Debug/net6.0/tp2.csproj.AssemblyReference.cache
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/obj/Debug/net6.0/tp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/obj/Debug/net6.0/tp2.AssemblyInfoInputs.cache
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/obj/Debug/net6.0/tp2.AssemblyInfo.cs
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/obj/Debug/net6.0/tp2.csproj.CoreCompileInputs.cache
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/obj/Debug/net6.0/tp2.dll
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/obj/Debug/net6.0/refint/tp2.dll
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/obj/Debug/net6.0/tp2.pdb
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/obj/Debug/net6.0/tp2.genruntimeconfig.cache
+/Users/mariam/Desktop/sandbox/c#_exam/tp2/obj/Debug/net6.0/ref/tp2.dll
